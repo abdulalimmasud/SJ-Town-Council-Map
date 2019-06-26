@@ -8,12 +8,12 @@ Detecting town council of Singapore into one map
 4. Chua Chu Kang
 5. East Coast
 6. Holland-Bukit Panjang
-7. Jurong
-8. Marine Parade
-9. Moulmein-Kallang
-10. Nee Soon
-11. Pasir Ris-Punggol
-12.  Potong Pasir
+7. Jalan Besar
+8. Jurong-Clementi
+9. Marine Parade
+10. Marsiling-Yew Tee
+11. Nee Soon
+12. Pasir Ris-Punggol
 13. Sembawang
 14. Tampines
 15. Tanjong Pagar
